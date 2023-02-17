@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
                 putExtra("key_username", inputUsernameText.text.toString()) // Spannable to string without toString()
             }
             println("  † Jesus Chrsit †  ")
-            println(" khatch_shah  ")
+            println(" khatch_shah ")
 
             startActivity(intentNavigate)   // Send Data and Navigate
         }
